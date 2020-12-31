@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React By Vivek
+          Learn React By Vivek on Git desktop
         </a>
       </header>
     </div>
